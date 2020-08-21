@@ -1,0 +1,13 @@
+@media screen and (max-width: 991px)
+body {
+    padding: 15px;
+}
+@media screen and (max-width: 1440px)
+.main-slider .item {
+    padding: 50px;
+}
+@media screen and (max-width: 480px)
+.main-slider .item-child-left {
+    padding: 65px 0px;
+    text-align: center;
+}
